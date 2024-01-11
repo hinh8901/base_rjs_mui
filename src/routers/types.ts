@@ -1,3 +1,3 @@
-import { RouteProps } from "react-router"
+import { RouteProps } from "react-router-dom"
 
 export type RouteConfigurations = RouteProps & {}
